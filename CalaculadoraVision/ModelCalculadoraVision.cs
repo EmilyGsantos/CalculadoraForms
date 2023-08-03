@@ -57,8 +57,6 @@ namespace CalaculadoraVision
         }// fim da raiz
 
 
-
-
         }//fim da classe
     }//fim do projeto 
 
