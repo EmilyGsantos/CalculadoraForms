@@ -1,0 +1,11 @@
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\bin\Debug\CalaculadoraVision.exe.config
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\bin\Debug\CalaculadoraVision.exe
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\bin\Debug\CalaculadoraVision.pdb
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.csproj.AssemblyReference.cache
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.csproj.SuggestedBindingRedirects.cache
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.Form1.resources
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.Properties.Resources.resources
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.csproj.GenerateResource.cache
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.csproj.CoreCompileInputs.cache
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.exe
+C:\Users\emily.gsantos\source\repos\CalaculadoraVision\CalaculadoraVision\obj\Debug\CalaculadoraVision.pdb
